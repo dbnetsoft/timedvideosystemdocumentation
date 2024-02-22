@@ -8,4 +8,4 @@ Go to the camera's website and see if there is no frame visible at all. If it is
 
 If the frame is also frozen or missing on the camera's website, you can upload debug information to ALGE for further investigation. But for this to work the camera needs to have access to internet upfront, so a correct gateway and DNS serve must be set. If this is the case, you can upload debug information wit this button:&#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>

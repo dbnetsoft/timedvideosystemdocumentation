@@ -5,3 +5,5 @@
 * [OptiC3](optic3/README.md)
   * [Firmware Update](optic3/firmware-update.md)
   * [Troubleshooting](optic3/troubleshooting.md)
+* [Release Notes](release-notes/README.md)
+  * [1.1.7 (2024-02-22)](release-notes/1.1.7-2024-02-22.md)
