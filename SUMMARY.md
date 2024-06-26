@@ -11,3 +11,4 @@
       * [Frozen images](timedvideosystem/optic3/troubleshooting/frozen-images.md)
   * [Release Notes](timedvideosystem/release-notes/README.md)
     * [1.1.7 (2024-02-22)](timedvideosystem/release-notes/1.1.7-2024-02-22.md)
+  * [Common Mistakes](timedvideosystem/common-mistakes.md)
